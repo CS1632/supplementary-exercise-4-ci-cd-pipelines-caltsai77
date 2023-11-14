@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-pipelines-caltsai77</artifactId>
+  <artifactId>supplementary-exercise-4-cicd-pipelines-caltsai77</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
